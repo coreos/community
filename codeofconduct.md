@@ -80,6 +80,7 @@ Our team will assist you in contacting hotel/venue security, local law enforceme
 **Steps to respond to a report**
 
 When we receive an abuse complaint, these are the steps we go through.
+
 1. Remove the person(s) reporting the incident from the situation. This may not be possible for anonymous reports. We suggest anonymous reporters to remove themselves, if it’s possible.  
 
 2. Because other event staff may be better equipped to respond to incidents the reporting individuals will be asked if they’re comfortable having another staff person present.  
