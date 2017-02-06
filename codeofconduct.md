@@ -14,7 +14,7 @@ Harassment includes, but is not limited to:
 
 - Gratuitous or off-topic sexual images or behavior  in spaces where they’re not appropriate.  
 
-- Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “back rub”) without consent or after a request to stop.  
+- Physical contact and simulated physical contact (eg, like “*hug*” or “back rub”) without consent or after a request to stop.  
 
 - Threats of violence.  
 
