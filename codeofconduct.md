@@ -1,9 +1,10 @@
-Short form
+# CoreOS Community Code Of Conduct
 
-The CoreOS community is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, neuro(a)typicality, body size, race, age, or religion. We do not condone any statements by speakers contrary to these standards.  We do not tolerate harassment of attendees in any form. Violators of these rules may be sanctioned or expelled from the meetup at any time at the discretion of the meetup organizers. Our anti-harassment policy can be found at: [insert link].
+## Short form
 
+The CoreOS community is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, neuro(a)typicality, body size, race, age, or religion. We do not condone any statements by speakers contrary to these standards.  We do not tolerate harassment of attendees in any form. Violators of these rules may be sanctioned or expelled from the meetup at any time at the discretion of the meetup organizers. Our anti-harassment policy can be found at: https://github.com/coreos/community/blob/master/codeofconduct.md
 
-Long form
+## Long form
 
 Harassment includes, but is not limited to:
 - Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.  
