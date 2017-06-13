@@ -9,4 +9,4 @@ In other words, this is a list of reports, with any personally identifying infor
 | Date  | Description | Resolution |
 | ------------- | ------------- |  ------------- |
 | 2017-06-13 | Trespassing | Event is CoreOS Fest. Looking into an improved check-in and admission procedure for future events. |
-| 2017-05-16  | As an example, an incident would be described concisely like: "Abusive language" | Spoke with the person who was accused, and reminded of the CoC. Reminded the group of the CoC at the next event. 
+
